@@ -1,8 +1,8 @@
-## Interface: 20505
+## Interface: 20505, 20506
 ## Title: Wick's Stats
 ## Notes: Detailed character stat panel docked next to the character frame.
 ## Author: Wick
-## Version: 0.2.2
+## Version: 0.2.3
 ## SavedVariablesPerCharacter: WicksStatsSettings
 
 Core.lua

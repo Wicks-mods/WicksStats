@@ -1,5 +1,12 @@
 # Wick's Stats - Changelog
 
+## 0.2.3 - 2026-10-01
+
+### Fixed
+
+- Loads on the 2.5.6 client without being marked out of date. The addon
+  now lists interface 20506 alongside 20505.
+
 ## 0.2.2 - 2026-05-31
 
 ### Fix: stat weight and buff tooltips errored on hover
